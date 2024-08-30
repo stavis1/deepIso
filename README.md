@@ -1,3 +1,5 @@
+**This fork of deepIso aims to make it easier to programatically control for the purposes of optimizing its parameters, I am not affiliated with the origional authors**
+
 This research project is the implementation of deep neural network based model **DeepIso** for peptide feature detection from LC-MS map. This work is published in Scientific Reports, 2019: https://www.nature.com/articles/s41598-019-52954-4. The instruction for running the model is provided below. For any further query, please contact me at: fzohora@uwaterloo.ca
 
 # Instruction for running DeepIso
